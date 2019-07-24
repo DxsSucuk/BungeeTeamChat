@@ -1,0 +1,2 @@
+# BungeeTeamChat
+BungeeCord TeamChat Plugin
