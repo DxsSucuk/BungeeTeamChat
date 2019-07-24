@@ -1,0 +1,6 @@
+name: TeamChat-Bungee
+version: b1.0
+main: de.presti.opensource.teamchat.bungeecord.main.TeamChatMain
+author: Presti
+commands:
+   tc:
